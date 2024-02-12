@@ -10,6 +10,6 @@
 
 ## Ferramentas
 <div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=whit" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div>
 
